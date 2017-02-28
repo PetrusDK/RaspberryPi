@@ -1,0 +1,1 @@
+C:\Petrus\Personal\Thesis\samples-develop (1)\samples-develop\HelloBlinky\CS\Blinky.csproj;arm
